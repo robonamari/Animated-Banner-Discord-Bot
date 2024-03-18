@@ -9,7 +9,7 @@ Animated Banner Discord Bot is a tool written in Python. It sets Animated Banner
 
 
 # فارسی
-ربات دیسکورد با آواتار متحرک یک ابزار نوشته شده به زبان پایتون است. این ابزار برای بات های دیسکورد شما آواتار متحرک تنظیم می کند!
+ربات دیسکورد با بنر متحرک یک ابزار نوشته شده به زبان پایتون است. این ابزار برای بات های دیسکورد شما آواتار متحرک تنظیم می کند!
 ### کمک 
 * توکن بات خود را در [خط 4](https://github.com/robonamari/Animated-Banner-Discord-Bot/blob/main/main.py#L4) وارد کنید.
 * آواتار فایل خود را در پوشه قرار دهید و سپس در [خط 5](https://github.com/robonamari/Animated-Banner-Discord-Bot/blob/main/main.py#L5) تغییر دهید و مسیر خود را تعیین کنید.
