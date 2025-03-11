@@ -13,6 +13,32 @@
 ---
 
 Animated Banner Discord Bot is a tool written in Python. It sets Animated Banner for your Discord Bots!
-## Help
-* Set your Bot Token in [line 4](main.py#L4).
-* Put your Banner File in the folder then change [line 5](main.py#L5) and set your Path.
+
+## Self-host Configuration
+<details>
+<summary>4 Steps to Host Your Own Animated-Banner-Discord-Bot</summary>
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/robonamari/Animated-Banner-Discord-Bot
+```
+
+### 2. Install Python and Dependencies
+Install Python 3.7 or above, then install the required Python dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Configure the Script
+1. Set your Bot Token in [line 4](main.py#L4).
+2. Put your Banner File in the folder then change [line 5](main.py#L5) and set your Path.
+
+### 4. Run the Script
+```bash
+python index.py
+```
+
+### Done!
+Your script should be fully configured and ready to run!
+
+</details>
