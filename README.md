@@ -1,7 +1,17 @@
-![Static Badge](https://img.shields.io/badge/python-%E2%88%9E-blue)
-___
+<div align="center">
 
-# English
+[**🇮🇷 فارسی**](README_fa.md)
+</div>
+
+<p align="center">
+    <img src="https://img.shields.io/github/languages/code-size/robonamari/Animated-Banner-Discord-Bot?style=flat" alt="Code Size">
+    <img src="https://tokei.rs/b1/github/robonamari/Animated-Banner-Discord-Bot?style=flat" alt="Total lines">
+    <img src="https://img.shields.io/badge/python-%5E3.7-blue" alt="Python Versions">
+    <img src="https://img.shields.io/github/license/robonamari/Animated-Banner-Discord-Bot" alt="GitHub license">
+</p>
+
+---
+
 Animated Banner Discord Bot is a tool written in Python. It sets Animated Banner for your Discord Bots!
 ### Help
 * Set your Bot Token in [line 4](https://github.com/robonamari/Animated-Banner-Discord-Bot/blob/main/main.py#L4).
