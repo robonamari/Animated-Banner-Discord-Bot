@@ -30,8 +30,8 @@ pip install -r requirements.txt
 ```
 
 ### 3. Configure the Script
-1. Set your Bot Token in [line 4](main.py#L4).
-2. Put your Banner File in the folder then change [line 5](main.py#L5) and set your Path.
+1. Set your Bot Token in [line 5](main.py#L5).
+2. Put your Banner File in the folder then change [line 6](main.py#L6) and set your Path.
 
 ### 4. Run the Script
 ```bash
