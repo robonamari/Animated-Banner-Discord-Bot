@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### 4. Run the Script
 ```bash
-python index.py
+python main.py
 ```
 
 ### Done!
