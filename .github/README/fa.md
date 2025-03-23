@@ -24,7 +24,7 @@ git clone https://github.com/robonamari/Animated-Banner-Discord-Bot
 ```
 
 ### ۲. نصب پایتون و وابستگی‌ها
-پایتون نسخه ۳.۷ یا بالاتر را نصب کنید، سپس وابستگی‌های مورد نیاز را نصب کنید:
+پایتون را نصب کنید، سپس وابستگی‌های مورد نیاز را نصب کنید:
 ```bash
 pip install -r requirements.txt
 ```
