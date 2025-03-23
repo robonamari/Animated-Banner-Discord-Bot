@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### ۴. اجرای اسکریپت
 ```bash
-python index.py
+python main.py
 ```
 
 ### تمام!
