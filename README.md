@@ -24,7 +24,7 @@ git clone https://github.com/robonamari/Animated-Banner-Discord-Bot
 ```
 
 ### 2. Install Python and Dependencies
-Install Python 3.7 or above, then install the required Python dependencies:
+Install Python, then install the required Python dependencies:
 ```bash
 pip install -r requirements.txt
 ```
