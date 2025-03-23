@@ -1,6 +1,6 @@
 <div align="center">
 
-[**🇮🇷 فارسی**](README_fa.md)
+[**🇮🇷 فارسی**](.github/README/fa.md)
 </div>
 
 <p align="center">
