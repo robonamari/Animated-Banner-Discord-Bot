@@ -1,6 +1,6 @@
 <div align="center">
 
-[**🇮🇷 فارسی**](.github/README/fa.md)
+[**Other Languages**](.github/README/)
 </div>
 
 <p align="center">
