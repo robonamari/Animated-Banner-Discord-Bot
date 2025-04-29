@@ -5,12 +5,12 @@ updates:
     schedule:
       interval: "daily"
     labels:
-      - "enhancement"
+      - "dependencies"
     open-pull-requests-limit: 3
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: "daily"
     labels:
-      - "enhancement"
+      - "dependencies"
     open-pull-requests-limit: 3
