@@ -3,10 +3,14 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
+    labels:
+      - "enhancement"
     open-pull-requests-limit: 3
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
+    labels:
+      - "enhancement"
     open-pull-requests-limit: 3
