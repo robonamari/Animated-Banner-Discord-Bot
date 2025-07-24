@@ -9,6 +9,8 @@
 
 ---
 
+![banner](/.github/banner.png)
+
 </div>
 
 Animated Banner Discord Bot is a tool written in Python. It sets Animated Banner for your Discord Bots!
