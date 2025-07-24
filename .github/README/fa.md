@@ -9,6 +9,8 @@
 
 ---
 
+![بنر](/.github/banner.gif)
+
 </div>
 
 <p dir="rtl">
