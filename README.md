@@ -9,7 +9,7 @@
 
 ---
 
-![banner](/.github/banner.png)
+![banner](/.github/banner.gif)
 
 </div>
 
